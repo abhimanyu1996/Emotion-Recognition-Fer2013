@@ -1,10 +1,10 @@
 # Emotion-Recognition-Fer2013
 
 ### Description
-This project uses images/videos as input and outputs the emotion of people in the image/video. There are 7 different emotions "Angry", "Disgust", "Scared", "Happy", "Sad", "Surprised", "Neutral".
+This project uses images/videos as input and outputs the emotion of people in the image/video. There are 7 different emotions "Angry", "Disgust", "Scared", "Happy", "Sad", "Surprised", "Neutral"
 
-<br>
-![Demo Image](content/Demo2.png)
+![](content/Demo2.png)
+![](content/DemoGif.gif)
 
 ### Dataset
 I have used [Fer2013 dataset](https://www.kaggle.com/c/3364/download-all) https://www.kaggle.com/c/3364/download-all
