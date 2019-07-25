@@ -4,7 +4,7 @@
 This project uses images/videos as input and outputs the emotion of people in the image/video. There are 7 different emotions "Angry", "Disgust", "Scared", "Happy", "Sad", "Surprised", "Neutral".
 
 <br>
-![](content/DemoGif.gif)
+![Demo Gif](content/DemoGif.gif)
 
 ### Dataset
 I have used [Fer2013 dataset](https://www.kaggle.com/c/3364/download-all) https://www.kaggle.com/c/3364/download-all
@@ -20,14 +20,16 @@ I have used [Fer2013 dataset](https://www.kaggle.com/c/3364/download-all) https:
 You can check the Jupyter-notebook for the training and testing of the model.<br>
 To use the code in command use the following commands.
 <br> For *Images*:
+
 > python detectImage.py (input_file_path) (optional output_file_path)
-<br>example: python detectImage.py content/TestImage.jpg out.jpg
+
+Example: python detectImage.py content/TestImage.jpg out.jpg
 
 <br> For *Videos*:
 > python detectVideo.py (input_file_path) (optional output_file_path)
-<br>example: python detectVideo.py content/TestVideo.mp4 outVideo
 
-<br>
+Example: python detectVideo.py content/TestVideo.mp4 outVideo
+
 <br>
 If you like this work please help me by following and giving me some stars.
 
