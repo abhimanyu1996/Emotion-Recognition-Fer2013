@@ -3,7 +3,6 @@
 ### Description
 This project uses images/videos as input and outputs the emotion of people in the image/video. There are 7 different emotions "Angry", "Disgust", "Scared", "Happy", "Sad", "Surprised", "Neutral"
 
-![](content/Demo2.png)
 ![](content/DemoGif.gif)
 
 ### Dataset
